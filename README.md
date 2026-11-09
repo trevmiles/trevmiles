@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @trevmiles
-- 👀 I’m a data and software engineer by profession
-- 💞️ I’m looking to collaborate on data science projects, flutter (iOS,Android and Web) applications
+### Hi, I'm Trevor 👋
 
-<!---
-trevmiles/trevmiles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data engineer and analytics manager at Vodafone PNG, and a Chevening Scholar studying for an MSc in Data Science & Analytics at Brunel University of London.
+
+- 🔧 I build data pipelines, warehouses and automated reporting with SQL and Python
+- 📊 I work with Power BI, Tableau, and R
+- 🤝 I'm open to collaborating on data science projects and Flutter apps
+- 🌐 Portfolio and writing: [trevmiles.github.io](https://trevmiles.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/trevor-miles-12aa88167/)
